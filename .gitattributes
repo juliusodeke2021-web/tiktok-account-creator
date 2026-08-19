@@ -1,0 +1,14 @@
+# Generated on 2026-11-15
+public/**/*.html linguist-vendored  
+
+*.htm linguist-vendored
+*.min.js linguist-generated
+package-lock.json linguist-generated
+*.svg text
+*.tsx linguist-detectable
+dist/* linguist-vendored
+*.ico binary
+
+src/**/*.tsx linguist-detectable
+*.bat text eol=crlf
+# eof 912aed9c
